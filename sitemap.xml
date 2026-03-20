@@ -7,6 +7,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/hey-but-from-my-other-account/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -18,6 +23,11 @@
     <url>
         <loc>
             http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/cera10/
         </loc>
     </url>
     <url>
